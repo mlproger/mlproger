@@ -8,10 +8,10 @@
 
 ### Связь со мной  
 
-<a href="https://t.me/MVFedchenko">
-<img src=https://img.shields.io/badge/Telegram-2CA5E0%3F?style=for-the-badge&logo=Telegram&color=gray&link=https%3A%2F%2Ft.me%2FMVFedchenko>
+<a href="https://github.com/ффф" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://vk.com/51mvfedchenko">
-<img src=https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk&color=gray&link=https%3A%2F%2Fvk.com%2F51mvfedchenko>
+<a href="https://gitlab.com/вв" target="_blank">
+<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>  
 
