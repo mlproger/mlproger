@@ -20,10 +20,10 @@
 
 ## Навыки  
 <div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="25" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="35" /></a>  
+<a href="https://dart.dev/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="35" /></a>  
+<a href="https://flutter.dev/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="35" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" /></a>  
 </div>  
 
 <br/>  
