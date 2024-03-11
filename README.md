@@ -1,12 +1,16 @@
-### Hi there 👋, Привет, я Максим
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+## Привет, я Максим  
+  
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: PYTHON / FastAPI/ Git/ Flutter/ DART
 
-- 🔭 I’m currently working on this page. 
+
+
+
+### Связь со мной  
+<a href="https://t.me/MVFedchenko" target="_blank">
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png>
+</a>  
+
 
 
 
