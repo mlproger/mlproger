@@ -13,6 +13,6 @@
 </a>
 
 <a href="https://vk.com/51mvfedchenko">
-<img src=https://img.shields.io/badge/-Vkontakte-003f5c&style=for-the-badge&logo=Vk alt=gitlab style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk style="margin-bottom: 5px;" />
 </a>  
 
