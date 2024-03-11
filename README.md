@@ -8,7 +8,7 @@
 
 ### Связь со мной  
 <a href="https://t.me/MVFedchenko" target="_blank">
-<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png>
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png width="20" height="20">
 </a>  
 
 
